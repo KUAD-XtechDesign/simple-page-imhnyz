@@ -13,6 +13,7 @@ img{
 
 img.frame{
   border: 1px solid #ccc;
+  color: rgb(168, 96, 96);
 }
 
 #container{
