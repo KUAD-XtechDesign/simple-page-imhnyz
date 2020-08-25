@@ -13,6 +13,7 @@ img{
 
 img.frame{
   border: 1px solid #ccc;
+  color: rgb(168, 96, 96);
 }
 
 #container{
@@ -32,6 +33,7 @@ img.frame{
   padding-bottom: 10px;
   font-size: 1.2em;
   border-bottom: 1px solid #ddd;
+  color: rgb(0, 148, 136);
 }
 
 .btns{
