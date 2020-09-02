@@ -1,0 +1,29 @@
+html {
+  color: rgb(13, 43, 77);
+  background-image: url(../images/back2.JPEG);
+  font-size: 20px;
+  line-height: 5;
+  }
+  *{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  }
+
+  img{
+  max-width: 45%;
+  height:auto;
+  }
+  a{
+  color:#333;
+  }
+  li{
+  list-style-position: inside;
+  }
+  
+  .mb_s{
+  margin-bottom: 10px;
+  }
+  .mb_m{
+  margin-bottom: 20px;
+  }
